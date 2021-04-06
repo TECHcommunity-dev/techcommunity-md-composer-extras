@@ -1,0 +1,16 @@
+heading2_button:
+  default: "Heading"
+  description:
+    en: Enter the text for the title of the button in the composer.
+heading2_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
+heading3_button:
+  default: "Heading"
+  description:
+    en: Enter the text for the title of the button in the composer.
+heading3_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
